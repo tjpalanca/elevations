@@ -1,0 +1,6 @@
+.Rproj.user
+_sandbox.*
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
